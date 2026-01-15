@@ -1172,7 +1172,6 @@ Having defined the principal constituents of the definition, to achieve a more n
 
 The following flowchart represents the Horizons Architecture (HA), which is made up of three independent or interconnected components: the HA System Thinking Framework, the AI & Data system, and the Users Fractal Network. The HA System Thinking Framework is positioned at the top of the flowchart and connects to both the AI & Data system and the Collaborative Fractal Network. This indicates that the HA System Thinking Framework serves as the foundational structure for both the AI & Data system and the Collaborative Fractal Network. The AI & Data system and the Collaborative Fractal Network both connect to the HA Delivery Mechanisms as "Interfaces with user." The three components conform the HA interconnected system, including humans and machines, involved in the transformation of a complex endeavor. Lastly, this flowchart show how the different components of HA can function independently (stand-alone) or as an integrated system.
 
-![Screenshot 2023-03-20 at 16.30.16.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1f209f8a-3288-4a2f-88ea-369f18cb9761/Screenshot_2023-03-20_at_16.30.16.png)
 
 https://app.diagrams.net/#G1z8X8lEWll6jN2WkXdcwtFXmQu_rkUbDn 
 
@@ -1209,7 +1208,6 @@ By intersecting Simultaneous Complexity (the concurrency of tasks and domains) w
 
 Time X refers to non-linear timeline series of HA that has occurred (past), is happening (present), and might happen (future, possible scenarios) that are helpful to document the historical processes to transform complex endeavors. By establishing a non-linear timeline, it is possible to create a sense of structure and narrative that can help coordinate and manage the endeavor's complexity, learning from the past and defining what is needed for the present and future. Furthermore, time includes the interval separating the past-present and the transformational state on the continuum of the complex endeavor. In HA, it is crucial to consider the transformational potential of time to clearly understand the scope and scale of the efforts done and the requirements of future HA. In short, Time X is the canvas where several potentially interconnected agents and HAs make a mark in time to prove their contribution to the network and develop strategies and approaches for managing, navigating, and predicting future endeavors. Overall, the role of time X in HA is organizing the historical, present, and future information and the most critical variables and required actions of a complex endeavor to provide meaningful knowledge and procedural documentation for the user(s) (authors of contribution). In HA time is a critical element, as complex endeavors require ongoing attention and interventions over extended periods. The Horizons Architecture emphasizes the need for continuous learning and adaptation, with feedback loops and ongoing monitoring of progress and outcomes.
 
-![Screenshot 2023-03-21 at 09.32.43.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bddaa95c-cdf3-4c09-8b0f-989dff100eb4/Screenshot_2023-03-21_at_09.32.43.png)
 
 ### 2.3 Relevance of Time in HA
 
@@ -1230,7 +1228,6 @@ The HA framework leverages different temporal perspectives to address complex en
 - **The present** process focuses on identifying and addressing the most pressing issues in real time. These issues might be time-sensitive actions (e.g., deadlines, legal procedures), where individuals and organizations constantly monitor the situation and make decisions based on what is happening. The present temporal perspective prepares user(s) to respond quickly to changes and adapt to new information as it becomes available.
 - **The present-future** process involves forward-thinking and strategic planning to mitigate future risks and opportunities. In other words, individuals and teams are focused on what is happening right now, thinking about what might happen and taking steps to prepare for it. By doing so, they can minimize risks and capitalize on opportunities that may arise in the future.
     
-    ![Screenshot 2023-03-27 at 10.39.16.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8b274638-d9a1-48dd-860d-3b7eb55786d6/Screenshot_2023-03-27_at_10.39.16.png)
     
 
 Fig. X Temporal non-linear perspectives in HA
@@ -1251,7 +1248,6 @@ Horizons Architecture (HA) is a system thinking framework that enhances human-ma
 
 The four core components of Horizons Architecture - mission-driven, people and context, productive knowledge and data, and action-enabling and performance-based projects - provide a comprehensive framework for approaching complex endeavors. However, these core concepts were further refined and organized into six dimensions to provide a more comprehensive and inclusive framework. The six dimensions of HA provide a more detailed and nuanced approach to addressing the complexities of human-machine interactions and transformational projects. By breaking down the four core components into six dimensions - legacy, community, learning, technology, context, and projects - HA allows users to dive deeper into each dimension and identify the most critical aspects that require attention. The six dimensions of HA also enable users to understand the interdependencies and relationships between the various dimensions, providing a more holistic and integrated approach to complex endeavors. Therefore, refining the four core components into six dimensions strengthens the Horizons Architecture framework, making it more comprehensive, practical, and inclusive in driving transformational change.
 
-![Screenshot 2023-03-27 at 11.31.47.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/af5dbbe4-2894-4089-a871-8142be4c6d01/Screenshot_2023-03-27_at_11.31.47.png)
 
 The diagram illustrates how the four core components of HA are integrated into the six dimensions of the framework. It emphasizes the interconnectedness of all the core components and how they relate to each of the six dimensions.
 
@@ -1271,7 +1267,6 @@ The mapping process serves to identify agents with similar interests or compleme
 
 HA proposes a framework that integrates (simultaneously) the axis (time and complexity) and dimensions to inform and enhance the process of transformation from point A (current state) to B (desired state) when it comes to complex endeavors. By bringing together the axis and dimensions in a shared timeline, organizations and individuals may better understand the various factors that influence their objectives and create a more effective roadmap for achieving their goals. The axis provides the canvas and a framework for organizing data. At the same time, dimensions offer a multi-faceted view of the problem, enabling individuals to explore different perspectives and uncover hidden insights. By integrating these two approaches, organizations, individuals, and machines can streamline their transformation processes, reducing risk and improving their overall chances of success in transforming a complex endeavor.
 
-![Screenshot 2023-03-21 at 09.38.13.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4acd51ba-e3bc-466f-96c8-5c78331c4662/Screenshot_2023-03-21_at_09.38.13.png)
 
 In sum, HA is a system thinking framework designed to enhance human-machine interactions to transform complex endeavors. It aims to address the challenges and opportunities enhancing humans and machines to collaborate towards a —individual or collective— human goal by optimizing the relationship between people, machines, and their environment. This approach is built on a foundation of six dimensions: Legacy, Community, Learning, Technology, Context, and Projects, which provide an organized structure for users to understand and navigate complex endeavors more effectively.
 The HA framework emphasizes the importance of mission-driven approaches, people-centric processes, productive knowledge, data use, and action-enabled, performance-based projects. By integrating these principles into the six dimensions, HA enables individuals and organizations to understand better the complexity involved in a given challenge.
@@ -3189,7 +3184,6 @@ Contemporary societies confront challenges that are structurally complex—chara
 The foundational structure of HA's Framework consists of:
 
 *   **Two Axes:**
-    *   **Time Axis:** A non-linear, adaptive classification of data and events into *past, present, and future* categories (retrospective analysis, present understanding, and prospective thinking).![[Screenshot 2025-07-13 at 11.44.04.png]]
     *   **Simultaneous Complexity Axis:** A framework for coordination across six interrelated dimensions that represent concurrent domains requiring attention.
 
 *   **Six Dimensions:**
@@ -3199,7 +3193,6 @@ The foundational structure of HA's Framework consists of:
     4.  **Technology** – The evaluation and implementation of tools and infrastructure.
     5.  **Context** - The analysis of external environments and constraints relevant to legacy achievement.
     6.  **Projects** - The operationalization of specific interventions designed to advance legacy objectives.
-![[Screenshot 2025-07-13 at 11.44.11.png]]
 ---
 
 ## Dimensions as Data Structures and Agentic Systems
@@ -3210,7 +3203,6 @@ For instance:
 
 *   The **Learning** dimension might generate agents to analyze knowledge gaps or develop curricula.
 *   The **Context** dimension could instantiate agents for policy analysis or environmental monitoring.
-![[Screenshot 2025-07-13 at 11.44.19.png]]
 ---
 
 ## Three Integrated Components of HA
@@ -3220,7 +3212,6 @@ HA operates through three interconnected components:
 1.  **System Thinking Framework (HA-STF)** An analogical and visual model that supports analytical reasoning across temporal and dimensional axes, facilitating transformation strategies and complexity management.
 2.  **AI & Data System** A computational infrastructure for processing and analyzing multi-structured data. This component employs AI including natural language processing, machine learning (quantitative methods), integrated with the dimensional taxonomy and generative ontology agentic logic.
 3.  **Multi-user Fractal Network** A coordination network (graph) enabling collaboration among individuals, institutions, and AI agents through hierarchically organized "subprojects" that maintain consistent structural logic. Contributions are documented via a *Proof of Contribution* mechanism, supporting epistemological provenance and accountability.
-![[Screenshot 2025-07-13 at 11.44.26.png]]
 Through this architecture, each dimension serves dual functions as both a **knowledge repository** and an **intelligent agent** capable of computation, recommendation generation, and dialogue with human users or other AI components. These specialized agents evolve based on inputs, feedback, and emerging requirements—creating what we term **hybrid intelligence**: a system where human cognitive capabilities and AI adaptability develop in tandem.
 
 ---
@@ -5047,6 +5038,12 @@ So let me be very clear and aligned with you:
 - This actually **strengthens** your ecosystem-unicorn thesis.
     
 - It also justifies why the book is foundational: it defines the system before the interfaces harden.
+
+
+---
+
+## 📄 diferenciacion/ha-principles.md
+
 
 
 ---
